@@ -3,3 +3,5 @@
 ```
     nix run .# -- bar.foot
 ```
+
+check: TODO.md
